@@ -1,0 +1,35 @@
+/*Navigation*/
+#navtab {
+    flex-direction: column;
+}
+
+/* home section */
+#home {
+    height: 800px;
+}
+
+#home::before {
+    height: 900px;
+}
+
+#home p {
+    font-size: 25px;
+}
+
+#home h1 {
+    font-size: 60px
+}
+
+/* service section */
+#services {
+    flex-direction: column;
+}
+
+#services .box {}
+
+/* client section */
+#clients {
+    overflow: hidden;
+}
+
+/* contact section */
